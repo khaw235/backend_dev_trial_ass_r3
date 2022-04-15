@@ -1,0 +1,1 @@
+web: gunicorn backend_dev_trial_ass_r3.wsgi --log-file -
